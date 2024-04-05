@@ -23,8 +23,7 @@ To set up the project environment:
 
 ```bash
 cd credit-scoring-and-segmentation
-git clone https://github.com/your-username/credit-scoring-and-segmentation.git
-pip install -r requirements.txt
+git clone https://github.com/Gopalkholade/Credit-Scoring-and-Segmentation.git
 ```
 
 ## Usage
